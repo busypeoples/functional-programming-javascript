@@ -51,7 +51,8 @@ Libraries that support functional programming
 
 ## Follow
 Blogs to follow
-[loop/recur](http://www.looprecur.com/) Brian Lonsdorf and his team
+
+* [loop/recur](http://www.looprecur.com/) Brian Lonsdorf and his team
 
 
 
