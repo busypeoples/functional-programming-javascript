@@ -5,16 +5,16 @@
 * [Libararies](#libraries)
 
 ## Blog Posts
-* Blog posts covering functional programming topics
+Blog posts covering functional programming topics
 
-[Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/)
+* [Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/)
 
 * [Higher-order functions](http://eloquentjavascript.net/05_higher_order.html) Eloquent JavaScript 2nd edition.
 
 * [Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html) Eloquent JavaScript 1st edition.
 
 ## Learning Resources
-* Posts, articles, videos focused on teaching functional programming
+Posts, articles, videos focused on teaching functional programming
 
 * [Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
 
@@ -22,7 +22,7 @@
 
 
 ## Libraries
-* Libraries that support functional programming
+Libraries that support functional programming
 
 * [lodash](https://lodash.com/) - A JavaScript utility library delivering consistency, modularity, performance, & extras.
 
