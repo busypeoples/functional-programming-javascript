@@ -1,8 +1,9 @@
 # Functional Programming Resources In JavaScript
 
-* [Blog Posts](#blog posts)
-* [Learning Resources](#learning resources)
+* [Blog Posts](#blog-posts)
+* [Learning Resources](#learning-resources)
 * [Libararies](#libraries)
+* [Follow](#follow)
 
 ## Blog Posts
 Blog posts covering functional programming topics
@@ -13,8 +14,14 @@ Blog posts covering functional programming topics
 
 * [Functional Programming](http://eloquentjavascript.net/1st_edition/chapter6.html) Eloquent JavaScript 1st edition.
 
+* [Functional JavaScript, some concepts](http://dreyacosta.com/functional-javascript/)
+
+* [An Introduction to Functional Programming in JavaScript](https://bjpelc.wordpress.com/2015/02/06/an-introduction-to-functional-programming-in-javascript/)
+
 ## Learning Resources
 Posts, articles, videos focused on teaching functional programming
+
+* [Property based testing in JavaScript](http://www.looprecur.com/blog/property-based-testing-in-javascript/)  Introduction into property based testing by loop/recur
 
 * [Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
 
@@ -41,5 +48,10 @@ Libraries that support functional programming
 * [mori](https://github.com/swannodette/mori) A simple bridge to ClojureScript's persistent data structures and supporting APIs for vanilla JavaScript.
 
 * [immutable.js](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+
+## Follow
+Blogs to follow
+[loop/recur](http://www.looprecur.com/) Brian Lonsdorf and his team
+
 
 
