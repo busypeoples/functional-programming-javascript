@@ -3,7 +3,7 @@
 * [Blog Posts](#blog-posts)
 * [Learning Resources](#learning-resources)
 * [Talks](#talks)
-* [Libararies](#libraries)
+* [Libraries](#libraries)
 * [Follow](#follow)
 
 ## Blog Posts
