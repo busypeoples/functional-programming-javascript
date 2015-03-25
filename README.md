@@ -2,6 +2,7 @@
 
 * [Blog Posts](#blog-posts)
 * [Learning Resources](#learning-resources)
+* [Talks](#talks)
 * [Libararies](#libraries)
 * [Follow](#follow)
 
@@ -33,6 +34,20 @@ Posts, articles, videos focused on teaching functional programming
 
 * [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.
 
+## Talks
+Videos and Slides
+
+* [Brian Lonsdorf - Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA)
+
+* [Brian Lonsdorf - Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
+
+* [Trevor Landau - Functional JS](https://www.youtube.com/watch?v=XXZA6b8y8kM)
+
+* [Pure JavaScript](https://vimeo.com/49384334)
+
+* [Elise Huard: Why functional is the new black](https://www.youtube.com/watch?v=XXZA6b8y8kM)
+
+* [Christian Johansen - Pure, functional JavaScript](https://vimeo.com/43382919)
 
 ## Libraries
 Libraries that support functional programming
