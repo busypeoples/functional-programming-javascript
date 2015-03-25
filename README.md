@@ -25,6 +25,8 @@ Blog posts covering functional programming topics
 
 * [Functional programming with Javascript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
 
+* [Tacit Ramda](https://medium.com/@bobiblazeski/tacit-ramda-c914775ff4b1)
+
 ## Learning Resources
 Posts, articles, videos focused on teaching functional programming
 
@@ -33,8 +35,6 @@ Posts, articles, videos focused on teaching functional programming
 * [Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
 
 * [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.
-* 
-[Tacit Ramda](https://medium.com/@bobiblazeski/tacit-ramda-c914775ff4b1)
 
 ## Talks
 Videos and Slides
