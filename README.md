@@ -18,6 +18,12 @@ Blog posts covering functional programming topics
 
 * [An Introduction to Functional Programming in JavaScript](https://bjpelc.wordpress.com/2015/02/06/an-introduction-to-functional-programming-in-javascript/)
 
+* [From Map/Reduce to JavaScript Functional Programming](https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/) 
+
+* [Functional Programming in JavaScript using LiveScript and prelude.ls](http://livescript.net/blog/functional-programming-in-javascript-using-livescript-and-prelude-ls.html) 
+
+* [Functional programming with Javascript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
+
 ## Learning Resources
 Posts, articles, videos focused on teaching functional programming
 
