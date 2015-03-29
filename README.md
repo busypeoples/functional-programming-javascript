@@ -27,6 +27,8 @@ Blog posts covering functional programming topics
 
 * [Tacit Ramda](https://medium.com/@bobiblazeski/tacit-ramda-c914775ff4b1)
 
+* [The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) 
+
 ## Learning Resources
 Posts, articles, videos focused on teaching functional programming
 
@@ -50,6 +52,8 @@ Videos and Slides
 * [Elise Huard: Why functional is the new black](https://www.youtube.com/watch?v=XXZA6b8y8kM)
 
 * [Christian Johansen - Pure, functional JavaScript](https://vimeo.com/43382919)
+
+* [Scott Sauyet - Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming) 
 
 ## Libraries
 Libraries that support functional programming
