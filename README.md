@@ -29,6 +29,8 @@ Blog posts covering functional programming topics
 
 * [The Two Pillars of JavaScript — Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) 
 
+* [Better world by better software FP posts](http://glebbahmutov.com/blog/tags/functional/)
+
 ## Learning Resources
 Posts, articles, videos focused on teaching functional programming
 
