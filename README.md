@@ -40,6 +40,8 @@ Posts, articles, videos focused on teaching functional programming
 
 * [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.
 
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming] (https://github.com/MostlyAdequate/mostly-adequate-guide)
+
 ## Talks
 Videos and Slides
 
