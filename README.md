@@ -40,6 +40,8 @@ Posts, articles, videos focused on teaching functional programming
 
 * [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.
 
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming] (https://github.com/MostlyAdequate/mostly-adequate-guide)
+
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ## Talks
@@ -84,5 +86,6 @@ Libraries that support functional programming
 Blogs to follow
 
 * [loop/recur](http://www.looprecur.com/) Brian Lonsdorf and his team
+
 
 
