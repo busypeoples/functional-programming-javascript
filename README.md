@@ -31,6 +31,8 @@ Blog posts covering functional programming topics
 
 * [Better world by better software FP posts](http://glebbahmutov.com/blog/tags/functional/)
 
+* [Why The Hipsters Compose Everything](https://medium.com/@sharifsbeat/why-the-hipsters-compose-everything-9b0aa247944a#.fq9gq5ofj)
+
 ## Learning Resources
 Posts, articles, videos focused on teaching functional programming
 
