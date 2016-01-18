@@ -82,7 +82,7 @@ Libraries that support functional programming
 
 * [mori](https://github.com/swannodette/mori) A simple bridge to ClojureScript's persistent data structures and supporting APIs for vanilla JavaScript.
 
-* [immutable.js](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+* [immutable.js](https://github.com/facebook/immutable-js) Immutable persistent data collections for Javascript which increase efficiency and simplicity. The [chai-immutable plugin](https://github.com/astorije/chai-immutable) provides custom [Chai](http://chaijs.com/) assertions when testing against immutable objects.
 
 ## Follow
 Blogs to follow
