@@ -33,6 +33,8 @@ Blog posts covering functional programming topics
 
 * [Why The Hipsters Compose Everything](https://medium.com/@sharifsbeat/why-the-hipsters-compose-everything-9b0aa247944a#.fq9gq5ofj)
 
+* [Currying & Partial Application](https://medium.com/@thinkfunctional/currying-partial-application-f1365d5fad3f)
+
 ## Learning Resources
 Posts, articles, videos focused on teaching functional programming
 
@@ -62,6 +64,8 @@ Videos and Slides
 * [Christian Johansen - Pure, functional JavaScript](https://vimeo.com/43382919)
 
 * [Scott Sauyet - Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming) 
+
+* [JavaScript Air Episode 003: Functional and Immutable Design Patterns in JavaScript](https://www.youtube.com/watch?v=82M9fKe7hiw)
 
 ## Libraries
 Libraries that support functional programming
