@@ -59,7 +59,7 @@ Videos and Slides
 
 * [Pure JavaScript](https://vimeo.com/49384334)
 
-* [Elise Huard: Why functional is the new black](https://www.youtube.com/watch?v=XXZA6b8y8kM)
+* [Elise Huard: Why functional is the new black](https://www.youtube.com/watch?v=3ujq55fCx6o)
 
 * [Christian Johansen - Pure, functional JavaScript](https://vimeo.com/43382919)
 
