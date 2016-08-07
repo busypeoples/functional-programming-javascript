@@ -35,6 +35,8 @@ Blog posts covering functional programming topics
 
 * [Currying & Partial Application](https://medium.com/@thinkfunctional/currying-partial-application-f1365d5fad3f)
 
+* [From Callback to Future -> Functor -> Monad](https://medium.com/@yelouafi/from-callback-to-future-functor-monad-6c86d9c16cb5#.uxvl4j9yg)
+
 ## Learning Resources
 Posts, articles, videos focused on teaching functional programming
 
