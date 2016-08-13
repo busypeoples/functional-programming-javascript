@@ -37,6 +37,8 @@ Blog posts covering functional programming topics
 
 * [From Callback to Future -> Functor -> Monad](https://medium.com/@yelouafi/from-callback-to-future-functor-monad-6c86d9c16cb5#.uxvl4j9yg)
 
+* [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780)
+
 ## Learning Resources
 Posts, articles, videos focused on teaching functional programming
 
