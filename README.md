@@ -52,6 +52,8 @@ Posts, articles, videos focused on teaching functional programming
 
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
+* [Paqmind.com](http://paqmind.com/) Guides and challenge to learn programming in functional style with JS.
+
 ## Talks
 Videos and Slides
 
