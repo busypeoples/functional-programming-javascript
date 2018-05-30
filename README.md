@@ -65,7 +65,7 @@ Videos and Slides
 
 * [Elise Huard: Why functional is the new black](https://www.youtube.com/watch?v=3ujq55fCx6o)
 
-* [Christian Johansen - Pure, functional JavaScript](https://vimeo.com/43382919)
+* [Christian Johansen - Pure, functional JavaScript](https://www.youtube.com/watch?v=zp6FP0-h-ag)
 
 * [Scott Sauyet - Functional Programming](http://scott.sauyet.com/Javascript/Talk/FunctionalProgramming) 
 
