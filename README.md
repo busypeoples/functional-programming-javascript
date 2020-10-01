@@ -7,7 +7,7 @@
 * [Follow](#follow)
 
 ## Blog Posts
-blog posts whch will act as roadmaps to your success in functional programming 
+blog posts which can act as roadmaps to your success in functional programming 
 
 * [Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/)
 
