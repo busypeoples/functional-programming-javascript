@@ -7,7 +7,7 @@
 * [Follow](#follow)
 
 ## Blog Posts
-Blog posts covering functional programming topics
+blog posts which can act as roadmaps to your success in functional programming 
 
 * [Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/02/dont-be-scared-of-functional-programming/)
 
@@ -40,7 +40,8 @@ Blog posts covering functional programming topics
 * [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780)
 
 ## Learning Resources
-Posts, articles, videos focused on teaching functional programming
+Let's move a step ahead
+Given below are the posts, articles and the video lectures on functional programming with javascript
 
 * [Property based testing in JavaScript](http://www.looprecur.com/blog/property-based-testing-in-javascript/)  Introduction into property based testing by loop/recur
 
